@@ -17,9 +17,7 @@ class Solution {
             sum += distance[i];
         }
         
-        if(arr_sum - sum >= sum) return sum; // 비교하여 반환
-        
-        return (arr_sum - sum);
+        return Math.min(sum, arr_sum - sum); // 비교하여 반환
         
         
     }
