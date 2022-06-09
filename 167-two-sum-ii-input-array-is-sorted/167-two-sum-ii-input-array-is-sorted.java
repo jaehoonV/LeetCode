@@ -21,14 +21,14 @@ class Solution {
 		int left = 0, right = numbers.length - 1;
 		
 		while(left < right) {
-			if (numbers[left] + numbers[right] == target) {
+			if (numbers[left] + numbers[right] > target) {
+				right --;
+	        } else if (numbers[left] + numbers[right] < target) {
+	        	left ++;
+	        } else {
 				output[0] = left + 1;
 				output[1] = right + 1;
-	            break;
-	        } else if (numbers[left] + numbers[right] > target) {
-	            right --;
-	        } else {
-	            left ++;
+				return output;
 	        }
 		}
 
