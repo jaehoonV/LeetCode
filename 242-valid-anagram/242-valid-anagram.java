@@ -1,6 +1,6 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        if (s.length() != t.length()) {// 길이가 같지 않을 경우 false 반환
+         if (s.length() != t.length()) { // 길이가 같지 않을 경우 false 반환
 			return false;
 		}
 		int[] count = new int[26]; // 알파벳 소문자 수 만큼 count할 배열 생성
@@ -15,5 +15,6 @@ class Solution {
 			}
 		}
 		return true;
+        
     }
 }
