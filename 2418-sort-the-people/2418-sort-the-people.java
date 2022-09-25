@@ -1,18 +1,16 @@
 class Solution {
     public String[] sortPeople(String[] n, int[] h) {
         int leng = h.length;
-        HashMap<Integer, Integer> hm = new HashMap<>();
+        HashMap<Integer, String> hm = new HashMap<>();
         String[] s = new String[leng];
         for(int i = 0; i < leng; i++){
-            hm.put(h[i], i);
+            hm.put(h[i], n[i]);
         }
         
-        Object[] mapKey = hm.keySet().toArray();
-        Arrays.sort(mapKey);
-        
-        int j = leng - 1;
-        for(Object keyVal : mapKey) {
-            s[j--] = n[hm.get(keyVal)];
+        Arrays.sort(h);
+        int i = 0;
+        for(int j = leng - 1; j >= 0; j--) {
+            s[i++] = hm.get(h[j]);
         }
         return s;
     }
