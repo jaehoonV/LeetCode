@@ -1,0 +1,1 @@
+DELETE FROM person p WHERE p.id <> (SELECT MIN(id) FROM person WHERE email = p.email);
