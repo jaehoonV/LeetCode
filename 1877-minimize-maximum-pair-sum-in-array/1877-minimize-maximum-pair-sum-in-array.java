@@ -1,17 +1,16 @@
 class Solution {
     public int minPairSum(int[] nums) {
-        int n = nums.length;
+        int output = 0;
 		int i = 0;
-		int j = n - 1;
-		int[] arr = new int[n / 2];
+		int j = nums.length - 1;
 		Arrays.sort(nums);
 		
 		while(i < j){
-			arr[i] = nums[i] + nums[j];
+			output = Math.max(nums[i] + nums[j], output);
 			i++;
 			j--;
 		}
 		
-		return Arrays.stream(arr).max().getAsInt();
+		return output;
     }
 }
