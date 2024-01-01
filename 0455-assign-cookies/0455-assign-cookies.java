@@ -5,7 +5,6 @@ class Solution {
         int output = 0;
         int i = 0;
         for(int n : g){
-            if(s.length <= i) break;
             while(i < s.length){
                 if(n <= s[i]){
                     output++;
@@ -14,7 +13,6 @@ class Solution {
                 }
                 i++;
             }
-            
         }
         return output;
     }
