@@ -14,12 +14,11 @@ class Solution {
         for (Integer key1 : tm1.keySet()) {
             if(!tm2.containsKey(key1)) list1.add(key1);
         }
-        output.add(list1);
+        
         for(Integer key2 : tm2.keySet()){
-            if(1 == tm2.get(key2)) {
-                list2.add(key2);
-            } 
+            if(1 == tm2.get(key2)) list2.add(key2);
         }
+        output.add(list1);
         output.add(list2);
         return output;
     }
