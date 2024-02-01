@@ -8,7 +8,9 @@ class Solution {
             int a = nums[i];
             int b = nums[i - 1];
             int c = nums[i - 2];
+            
             if(a - c > k) return new int[0][];
+            
             output[i / 3] = new int[]{c, b, a};
         }
         return output;
