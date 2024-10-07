@@ -1,19 +1,19 @@
 class Solution {
     public int minLength(String s) {
-        StringBuilder sb = new StringBuilder(s);
-        int n = sb.length();
-        
-        while(true){
-            for(int i = 0; i < n - 1; i++){
-                if((sb.charAt(i) == 'A' && sb.charAt(i + 1) == 'B') || (sb.charAt(i) == 'C' && sb.charAt(i + 1) == 'D')){
-                    sb.deleteCharAt(i);
-                    sb.deleteCharAt(i);
-                    break;
-                }
+        Stack<Character> stack = new Stack<>();
+
+        for (char c : s.toCharArray()) {
+
+            if (stack.isEmpty()) {
+                stack.push(c);
+                continue;
             }
-            if(n == sb.length()) break;
-            else n = sb.length();
+
+            if (c == 'B' && stack.peek() == 'A') stack.pop();
+            else if (c == 'D' && stack.peek() == 'C') stack.pop();
+            else stack.push(c);
         }
-        return n;
+
+        return stack.size();
     }
 }
