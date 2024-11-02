@@ -1,6 +1,6 @@
 class Solution {
-    public boolean isCircularSentence(String s) {
-        String[] arr = s.split(" ");
+    public boolean isCircularSentence(String sentence) {
+        String[] arr = sentence.split(" ");
         int n = arr.length;
         
         for(int i = 0; i < n - 1; i++){
