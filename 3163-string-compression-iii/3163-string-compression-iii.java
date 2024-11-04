@@ -1,6 +1,6 @@
 class Solution {
     public String compressedString(String word) {
-        StringBuilder comp = new StringBuilder();
+        StringBuilder output = new StringBuilder();
         int i = 0;
         
         while (i < word.length()) {
@@ -11,9 +11,9 @@ class Solution {
                 count++;
                 i++;
             }
-            comp.append(count).append(c);
+            output.append(count).append(c);
         }
         
-        return comp.toString();
+        return output.toString();
     }
 }
