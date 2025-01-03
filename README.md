@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/jaehoonV/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jaehoonV/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/jaehoonV/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2358-number-of-ways-to-split-array](https://github.com/jaehoonV/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/jaehoonV/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/jaehoonV/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/jaehoonV/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -116,5 +117,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/jaehoonV/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/jaehoonV/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/jaehoonV/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
