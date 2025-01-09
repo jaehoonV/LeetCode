@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jaehoonV/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jaehoonV/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/jaehoonV/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/jaehoonV/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/jaehoonV/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/jaehoonV/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/jaehoonV/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/jaehoonV/LeetCode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/jaehoonV/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jaehoonV/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/jaehoonV/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/jaehoonV/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/jaehoonV/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/jaehoonV/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/jaehoonV/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jaehoonV/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/jaehoonV/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/jaehoonV/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Math
 |  |
