@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/jaehoonV/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/jaehoonV/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/jaehoonV/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/jaehoonV/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/jaehoonV/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/jaehoonV/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/jaehoonV/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/jaehoonV/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/jaehoonV/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/jaehoonV/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/jaehoonV/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Heap (Priority Queue)
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/jaehoonV/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/jaehoonV/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/jaehoonV/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
