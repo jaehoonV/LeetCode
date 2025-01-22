@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0575-distribute-candies](https://github.com/jaehoonV/LeetCode/tree/master/0575-distribute-candies) |
 | [0952-word-subsets](https://github.com/jaehoonV/LeetCode/tree/master/0952-word-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jaehoonV/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/jaehoonV/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/jaehoonV/LeetCode/tree/master/0494-target-sum) |
+| [0575-distribute-candies](https://github.com/jaehoonV/LeetCode/tree/master/0575-distribute-candies) |
 | [0780-max-chunks-to-make-sorted](https://github.com/jaehoonV/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0952-word-subsets](https://github.com/jaehoonV/LeetCode/tree/master/0952-word-subsets) |
 | [1306-minimum-absolute-difference](https://github.com/jaehoonV/LeetCode/tree/master/1306-minimum-absolute-difference) |
