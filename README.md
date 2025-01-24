@@ -193,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/jaehoonV/LeetCode/tree/master/1396-count-servers-that-communicate) |
+## Database
+|  |
+| ------- |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/jaehoonV/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
