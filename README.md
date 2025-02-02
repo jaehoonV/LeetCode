@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/jaehoonV/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/jaehoonV/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/jaehoonV/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/jaehoonV/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jaehoonV/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1972-rotating-the-box](https://github.com/jaehoonV/LeetCode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/jaehoonV/LeetCode/tree/master/2089-maximum-matrix-sum) |
