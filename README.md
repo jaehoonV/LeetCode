@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0575-distribute-candies](https://github.com/jaehoonV/LeetCode/tree/master/0575-distribute-candies) |
 | [0952-word-subsets](https://github.com/jaehoonV/LeetCode/tree/master/0952-word-subsets) |
+| [1364-tuple-with-same-product](https://github.com/jaehoonV/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jaehoonV/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/jaehoonV/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jaehoonV/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/jaehoonV/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0952-word-subsets](https://github.com/jaehoonV/LeetCode/tree/master/0952-word-subsets) |
 | [1306-minimum-absolute-difference](https://github.com/jaehoonV/LeetCode/tree/master/1306-minimum-absolute-difference) |
+| [1364-tuple-with-same-product](https://github.com/jaehoonV/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/jaehoonV/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jaehoonV/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/jaehoonV/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/jaehoonV/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/jaehoonV/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/jaehoonV/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jaehoonV/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
