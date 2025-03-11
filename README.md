@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/jaehoonV/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [3782-find-valid-emails](https://github.com/jaehoonV/LeetCode/tree/master/3782-find-valid-emails) |
 ## Design
 |  |
 | ------- |
