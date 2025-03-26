@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/jaehoonV/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/jaehoonV/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jaehoonV/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jaehoonV/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jaehoonV/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/jaehoonV/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/jaehoonV/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/jaehoonV/LeetCode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/jaehoonV/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jaehoonV/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jaehoonV/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/jaehoonV/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jaehoonV/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/jaehoonV/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/jaehoonV/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1306-minimum-absolute-difference](https://github.com/jaehoonV/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jaehoonV/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jaehoonV/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jaehoonV/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/jaehoonV/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3430-count-days-without-meetings](https://github.com/jaehoonV/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/jaehoonV/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/jaehoonV/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jaehoonV/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/jaehoonV/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/jaehoonV/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/jaehoonV/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
