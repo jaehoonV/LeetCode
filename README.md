@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/jaehoonV/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/jaehoonV/LeetCode/tree/master/1773-percentage-of-users-attended-a-contest) |
+| [3767-find-students-who-improved](https://github.com/jaehoonV/LeetCode/tree/master/3767-find-students-who-improved) |
 | [3782-find-valid-emails](https://github.com/jaehoonV/LeetCode/tree/master/3782-find-valid-emails) |
 | [3803-find-products-with-valid-serial-numbers](https://github.com/jaehoonV/LeetCode/tree/master/3803-find-products-with-valid-serial-numbers) |
 | [3816-dna-pattern-recognition](https://github.com/jaehoonV/LeetCode/tree/master/3816-dna-pattern-recognition) |
