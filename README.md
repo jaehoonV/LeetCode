@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1390-average-selling-price](https://github.com/jaehoonV/LeetCode/tree/master/1390-average-selling-price) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/jaehoonV/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/jaehoonV/LeetCode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [3767-find-students-who-improved](https://github.com/jaehoonV/LeetCode/tree/master/3767-find-students-who-improved) |
