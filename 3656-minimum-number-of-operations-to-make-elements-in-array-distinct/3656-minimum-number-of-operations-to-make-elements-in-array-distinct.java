@@ -4,9 +4,7 @@ class Solution {
         
         for (int i = nums.length - 1; i >= 0; i--) {
             if(set.contains(nums[i])) {
-                if((i + 1) % 3 == 0) {
-                    return (int)((i + 1) / 3);
-                }
+                if((i + 1) % 3 == 0) return (int)((i + 1) / 3);
                 return (int)((i + 1) / 3 + 1);
             }
 
