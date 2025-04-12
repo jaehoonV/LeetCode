@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/jaehoonV/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jaehoonV/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/jaehoonV/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3811-reverse-degree-of-a-string](https://github.com/jaehoonV/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-transformed-array](https://github.com/jaehoonV/LeetCode/tree/master/3651-transformed-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jaehoonV/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/jaehoonV/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3811-reverse-degree-of-a-string](https://github.com/jaehoonV/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
