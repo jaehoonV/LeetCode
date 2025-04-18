@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/jaehoonV/LeetCode/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/jaehoonV/LeetCode/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/jaehoonV/LeetCode/tree/master/0952-word-subsets) |
 | [1156-occurrences-after-bigram](https://github.com/jaehoonV/LeetCode/tree/master/1156-occurrences-after-bigram) |
