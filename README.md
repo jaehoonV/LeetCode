@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/jaehoonV/LeetCode/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/jaehoonV/LeetCode/tree/master/0768-partition-labels) |
+| [0841-shortest-distance-to-a-character](https://github.com/jaehoonV/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0952-word-subsets](https://github.com/jaehoonV/LeetCode/tree/master/0952-word-subsets) |
 | [1156-occurrences-after-bigram](https://github.com/jaehoonV/LeetCode/tree/master/1156-occurrences-after-bigram) |
 | [1160-letter-tile-possibilities](https://github.com/jaehoonV/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/jaehoonV/LeetCode/tree/master/0575-distribute-candies) |
 | [0780-max-chunks-to-make-sorted](https://github.com/jaehoonV/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/jaehoonV/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0841-shortest-distance-to-a-character](https://github.com/jaehoonV/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0952-word-subsets](https://github.com/jaehoonV/LeetCode/tree/master/0952-word-subsets) |
 | [1306-minimum-absolute-difference](https://github.com/jaehoonV/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1364-tuple-with-same-product](https://github.com/jaehoonV/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/jaehoonV/LeetCode/tree/master/0768-partition-labels) |
+| [0841-shortest-distance-to-a-character](https://github.com/jaehoonV/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jaehoonV/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jaehoonV/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1972-rotating-the-box](https://github.com/jaehoonV/LeetCode/tree/master/1972-rotating-the-box) |
