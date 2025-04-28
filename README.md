@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/jaehoonV/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3797-design-spreadsheet](https://github.com/jaehoonV/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/jaehoonV/LeetCode/tree/master/3832-minimum-cost-to-reach-every-position) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/jaehoonV/LeetCode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jaehoonV/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Matrix
 |  |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jaehoonV/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/jaehoonV/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3790-fruits-into-baskets-ii](https://github.com/jaehoonV/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/jaehoonV/LeetCode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## String Matching
 |  |
 | ------- |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/jaehoonV/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jaehoonV/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/jaehoonV/LeetCode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Database
 |  |
 | ------- |
@@ -383,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/jaehoonV/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Graph
+|  |
+| ------- |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/jaehoonV/LeetCode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
