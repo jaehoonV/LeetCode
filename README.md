@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/jaehoonV/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0952-word-subsets](https://github.com/jaehoonV/LeetCode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/jaehoonV/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/jaehoonV/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/jaehoonV/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jaehoonV/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1500-count-largest-group](https://github.com/jaehoonV/LeetCode/tree/master/1500-count-largest-group) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/jaehoonV/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0952-word-subsets](https://github.com/jaehoonV/LeetCode/tree/master/0952-word-subsets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/jaehoonV/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/jaehoonV/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1306-minimum-absolute-difference](https://github.com/jaehoonV/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1364-tuple-with-same-product](https://github.com/jaehoonV/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/jaehoonV/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/jaehoonV/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/jaehoonV/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/jaehoonV/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/jaehoonV/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/jaehoonV/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
