@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/jaehoonV/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/jaehoonV/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/jaehoonV/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/jaehoonV/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/jaehoonV/LeetCode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/jaehoonV/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/jaehoonV/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/jaehoonV/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/jaehoonV/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2681-put-marbles-in-bags](https://github.com/jaehoonV/LeetCode/tree/master/2681-put-marbles-in-bags) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/jaehoonV/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Sorting
 |  |
 | ------- |
