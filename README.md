@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/jaehoonV/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/jaehoonV/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3797-design-spreadsheet](https://github.com/jaehoonV/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/jaehoonV/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## String
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jaehoonV/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/jaehoonV/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3811-reverse-degree-of-a-string](https://github.com/jaehoonV/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/jaehoonV/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/jaehoonV/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2681-put-marbles-in-bags](https://github.com/jaehoonV/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/jaehoonV/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/jaehoonV/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/jaehoonV/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/jaehoonV/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3778-transform-array-by-parity](https://github.com/jaehoonV/LeetCode/tree/master/3778-transform-array-by-parity) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/jaehoonV/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -351,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/jaehoonV/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/jaehoonV/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3778-transform-array-by-parity](https://github.com/jaehoonV/LeetCode/tree/master/3778-transform-array-by-parity) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/jaehoonV/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Brainteaser
 |  |
 | ------- |
