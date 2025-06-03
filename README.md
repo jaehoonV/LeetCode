@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3803-find-products-with-valid-serial-numbers](https://github.com/jaehoonV/LeetCode/tree/master/3803-find-products-with-valid-serial-numbers) |
 | [3816-dna-pattern-recognition](https://github.com/jaehoonV/LeetCode/tree/master/3816-dna-pattern-recognition) |
 | [3891-find-category-recommendation-pairs](https://github.com/jaehoonV/LeetCode/tree/master/3891-find-category-recommendation-pairs) |
+| [3898-seasonal-sales-analysis](https://github.com/jaehoonV/LeetCode/tree/master/3898-seasonal-sales-analysis) |
 ## Design
 |  |
 | ------- |
