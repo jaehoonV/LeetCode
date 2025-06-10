@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/jaehoonV/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/jaehoonV/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/jaehoonV/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jaehoonV/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/jaehoonV/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3797-design-spreadsheet](https://github.com/jaehoonV/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/jaehoonV/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/jaehoonV/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/jaehoonV/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/jaehoonV/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jaehoonV/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jaehoonV/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/jaehoonV/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3811-reverse-degree-of-a-string](https://github.com/jaehoonV/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/jaehoonV/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/jaehoonV/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/jaehoonV/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jaehoonV/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3778-transform-array-by-parity](https://github.com/jaehoonV/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/jaehoonV/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jaehoonV/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
