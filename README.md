@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3891-find-category-recommendation-pairs](https://github.com/jaehoonV/LeetCode/tree/master/3891-find-category-recommendation-pairs) |
 | [3898-seasonal-sales-analysis](https://github.com/jaehoonV/LeetCode/tree/master/3898-seasonal-sales-analysis) |
 | [3910-find-books-with-no-available-copies](https://github.com/jaehoonV/LeetCode/tree/master/3910-find-books-with-no-available-copies) |
+| [3921-find-consistently-improving-employees](https://github.com/jaehoonV/LeetCode/tree/master/3921-find-consistently-improving-employees) |
 ## Design
 |  |
 | ------- |
