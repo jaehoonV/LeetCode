@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/jaehoonV/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/jaehoonV/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/jaehoonV/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/jaehoonV/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3651-transformed-array](https://github.com/jaehoonV/LeetCode/tree/master/3651-transformed-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jaehoonV/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/jaehoonV/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/jaehoonV/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/jaehoonV/LeetCode/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/jaehoonV/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/jaehoonV/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/jaehoonV/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/jaehoonV/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/jaehoonV/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/jaehoonV/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/jaehoonV/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jaehoonV/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/jaehoonV/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/jaehoonV/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Heap (Priority Queue)
 |  |
@@ -522,4 +525,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/jaehoonV/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/jaehoonV/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
