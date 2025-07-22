@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/jaehoonV/LeetCode/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/jaehoonV/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jaehoonV/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1813-maximum-erasure-value](https://github.com/jaehoonV/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jaehoonV/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/jaehoonV/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/jaehoonV/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/jaehoonV/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [1813-maximum-erasure-value](https://github.com/jaehoonV/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jaehoonV/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/jaehoonV/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/jaehoonV/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/jaehoonV/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/jaehoonV/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1656-count-good-triplets](https://github.com/jaehoonV/LeetCode/tree/master/1656-count-good-triplets) |
+| [1813-maximum-erasure-value](https://github.com/jaehoonV/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/jaehoonV/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jaehoonV/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/jaehoonV/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
