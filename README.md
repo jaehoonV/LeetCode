@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/jaehoonV/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/jaehoonV/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0841-shortest-distance-to-a-character](https://github.com/jaehoonV/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/jaehoonV/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0952-word-subsets](https://github.com/jaehoonV/LeetCode/tree/master/0952-word-subsets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/jaehoonV/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/jaehoonV/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/jaehoonV/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/jaehoonV/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jaehoonV/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/jaehoonV/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jaehoonV/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/jaehoonV/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/jaehoonV/LeetCode/tree/master/0494-target-sum) |
 | [0868-push-dominoes](https://github.com/jaehoonV/LeetCode/tree/master/0868-push-dominoes) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/jaehoonV/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jaehoonV/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/jaehoonV/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/jaehoonV/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
