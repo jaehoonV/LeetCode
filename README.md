@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/jaehoonV/LeetCode/tree/master/0494-target-sum) |
 | [0868-push-dominoes](https://github.com/jaehoonV/LeetCode/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/jaehoonV/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/jaehoonV/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jaehoonV/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/jaehoonV/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/jaehoonV/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
