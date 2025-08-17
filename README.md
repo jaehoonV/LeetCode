@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/jaehoonV/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0867-new-21-game](https://github.com/jaehoonV/LeetCode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/jaehoonV/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/jaehoonV/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jaehoonV/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/jaehoonV/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/jaehoonV/LeetCode/tree/master/0342-power-of-four) |
 | [0797-rabbits-in-forest](https://github.com/jaehoonV/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0867-new-21-game](https://github.com/jaehoonV/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/jaehoonV/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jaehoonV/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jaehoonV/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/jaehoonV/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/jaehoonV/LeetCode/tree/master/0494-target-sum) |
+| [0867-new-21-game](https://github.com/jaehoonV/LeetCode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/jaehoonV/LeetCode/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/jaehoonV/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/jaehoonV/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -592,4 +595,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/jaehoonV/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/jaehoonV/LeetCode/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jaehoonV/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/jaehoonV/LeetCode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
