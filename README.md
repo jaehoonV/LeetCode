@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/jaehoonV/LeetCode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/jaehoonV/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0575-distribute-candies](https://github.com/jaehoonV/LeetCode/tree/master/0575-distribute-candies) |
+| [0611-valid-triangle-number](https://github.com/jaehoonV/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/jaehoonV/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/jaehoonV/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0841-shortest-distance-to-a-character](https://github.com/jaehoonV/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/jaehoonV/LeetCode/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/jaehoonV/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0611-valid-triangle-number](https://github.com/jaehoonV/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/jaehoonV/LeetCode/tree/master/0768-partition-labels) |
 | [0841-shortest-distance-to-a-character](https://github.com/jaehoonV/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0868-push-dominoes](https://github.com/jaehoonV/LeetCode/tree/master/0868-push-dominoes) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/jaehoonV/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/jaehoonV/LeetCode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/jaehoonV/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/jaehoonV/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jaehoonV/LeetCode/tree/master/0075-sort-colors) |
+| [0611-valid-triangle-number](https://github.com/jaehoonV/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/jaehoonV/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0900-reordered-power-of-2](https://github.com/jaehoonV/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1306-minimum-absolute-difference](https://github.com/jaehoonV/LeetCode/tree/master/1306-minimum-absolute-difference) |
@@ -352,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/jaehoonV/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jaehoonV/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/jaehoonV/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jaehoonV/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
