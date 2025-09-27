@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/jaehoonV/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/jaehoonV/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/jaehoonV/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/jaehoonV/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0841-shortest-distance-to-a-character](https://github.com/jaehoonV/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/jaehoonV/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/jaehoonV/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/jaehoonV/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/jaehoonV/LeetCode/tree/master/0342-power-of-four) |
 | [0797-rabbits-in-forest](https://github.com/jaehoonV/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/jaehoonV/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/jaehoonV/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/jaehoonV/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jaehoonV/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -648,4 +650,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/jaehoonV/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/jaehoonV/LeetCode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
