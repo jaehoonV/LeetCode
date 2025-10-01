@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/jaehoonV/LeetCode/tree/master/0498-diagonal-traverse) |
+| [1642-water-bottles](https://github.com/jaehoonV/LeetCode/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/jaehoonV/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/jaehoonV/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jaehoonV/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/jaehoonV/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/jaehoonV/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/jaehoonV/LeetCode/tree/master/1500-count-largest-group) |
+| [1642-water-bottles](https://github.com/jaehoonV/LeetCode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/jaehoonV/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jaehoonV/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jaehoonV/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
