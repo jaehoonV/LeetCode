@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/jaehoonV/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jaehoonV/LeetCode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3973-flip-square-submatrix-vertically](https://github.com/jaehoonV/LeetCode/tree/master/3973-flip-square-submatrix-vertically) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/jaehoonV/LeetCode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [4005-maximum-total-subarray-value-i](https://github.com/jaehoonV/LeetCode/tree/master/4005-maximum-total-subarray-value-i) |
 ## Matrix
 |  |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/jaehoonV/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/jaehoonV/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/jaehoonV/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/jaehoonV/LeetCode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -667,4 +669,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/jaehoonV/LeetCode/tree/master/0830-largest-triangle-area) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/jaehoonV/LeetCode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
