@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3860-resulting-string-after-adjacent-removals](https://github.com/jaehoonV/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/jaehoonV/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jaehoonV/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3931-process-string-with-special-operations-i](https://github.com/jaehoonV/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jaehoonV/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3811-reverse-degree-of-a-string](https://github.com/jaehoonV/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/jaehoonV/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
+| [3931-process-string-with-special-operations-i](https://github.com/jaehoonV/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/jaehoonV/LeetCode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Two Pointers
 |  |
