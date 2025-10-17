@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/jaehoonV/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jaehoonV/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3931-process-string-with-special-operations-i](https://github.com/jaehoonV/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
+| [4052-equal-score-substrings](https://github.com/jaehoonV/LeetCode/tree/master/4052-equal-score-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jaehoonV/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/jaehoonV/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jaehoonV/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [4052-equal-score-substrings](https://github.com/jaehoonV/LeetCode/tree/master/4052-equal-score-substrings) |
 ## Trie
 |  |
 | ------- |
