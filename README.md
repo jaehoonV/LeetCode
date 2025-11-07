@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3860-resulting-string-after-adjacent-removals](https://github.com/jaehoonV/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3931-process-string-with-special-operations-i](https://github.com/jaehoonV/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/jaehoonV/LeetCode/tree/master/3974-xor-after-range-multiplication-queries-i) |
+| [4051-remove-zeros-in-decimal-representation](https://github.com/jaehoonV/LeetCode/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/jaehoonV/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/jaehoonV/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/jaehoonV/LeetCode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
+| [4051-remove-zeros-in-decimal-representation](https://github.com/jaehoonV/LeetCode/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Bit Manipulation
 |  |
 | ------- |
