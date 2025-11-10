@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/jaehoonV/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/jaehoonV/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/jaehoonV/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jaehoonV/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/jaehoonV/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jaehoonV/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/jaehoonV/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/jaehoonV/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3831-find-x-value-of-array-i](https://github.com/jaehoonV/LeetCode/tree/master/3831-find-x-value-of-array-i) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/jaehoonV/LeetCode/tree/master/3832-minimum-cost-to-reach-every-position) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jaehoonV/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/jaehoonV/LeetCode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jaehoonV/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/jaehoonV/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/jaehoonV/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/jaehoonV/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/jaehoonV/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jaehoonV/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/jaehoonV/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jaehoonV/LeetCode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [4005-maximum-total-subarray-value-i](https://github.com/jaehoonV/LeetCode/tree/master/4005-maximum-total-subarray-value-i) |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/jaehoonV/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/jaehoonV/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/jaehoonV/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jaehoonV/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/jaehoonV/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Monotonic Stack
 |  |
@@ -502,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/jaehoonV/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/jaehoonV/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/jaehoonV/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jaehoonV/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
