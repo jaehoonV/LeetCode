@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/jaehoonV/LeetCode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [4005-maximum-total-subarray-value-i](https://github.com/jaehoonV/LeetCode/tree/master/4005-maximum-total-subarray-value-i) |
 | [4107-find-missing-elements](https://github.com/jaehoonV/LeetCode/tree/master/4107-find-missing-elements) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/jaehoonV/LeetCode/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/jaehoonV/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/jaehoonV/LeetCode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/jaehoonV/LeetCode/tree/master/4051-remove-zeros-in-decimal-representation) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/jaehoonV/LeetCode/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
