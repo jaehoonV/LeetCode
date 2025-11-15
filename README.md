@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/jaehoonV/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jaehoonV/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/jaehoonV/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/jaehoonV/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4107-find-missing-elements](https://github.com/jaehoonV/LeetCode/tree/master/4107-find-missing-elements) |
 ## String
 |  |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3973-flip-square-submatrix-vertically](https://github.com/jaehoonV/LeetCode/tree/master/3973-flip-square-submatrix-vertically) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/jaehoonV/LeetCode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [4005-maximum-total-subarray-value-i](https://github.com/jaehoonV/LeetCode/tree/master/4005-maximum-total-subarray-value-i) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/jaehoonV/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4107-find-missing-elements](https://github.com/jaehoonV/LeetCode/tree/master/4107-find-missing-elements) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/jaehoonV/LeetCode/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 ## Matrix
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/jaehoonV/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jaehoonV/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [4052-equal-score-substrings](https://github.com/jaehoonV/LeetCode/tree/master/4052-equal-score-substrings) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/jaehoonV/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Trie
 |  |
 | ------- |
@@ -597,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/jaehoonV/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jaehoonV/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/jaehoonV/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/jaehoonV/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -663,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/jaehoonV/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/jaehoonV/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Queue
 |  |
 | ------- |
@@ -722,4 +727,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/jaehoonV/LeetCode/tree/master/3974-xor-after-range-multiplication-queries-i) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/jaehoonV/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/jaehoonV/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
