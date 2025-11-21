@@ -1,6 +1,5 @@
 class Solution {
     public int countPalindromicSubsequence(String s) {
-        		
 		int output = 0;
 		for(int i = 0; i < 26; i++){
 			char c = (char)(i + 97);
