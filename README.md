@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/jaehoonV/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/jaehoonV/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/jaehoonV/LeetCode/tree/master/0952-word-subsets) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/jaehoonV/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/jaehoonV/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/jaehoonV/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/jaehoonV/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/jaehoonV/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0342-power-of-four](https://github.com/jaehoonV/LeetCode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/jaehoonV/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/jaehoonV/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jaehoonV/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/jaehoonV/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jaehoonV/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
