@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jaehoonV/LeetCode/tree/master/0011-container-with-most-water) |
+| [0066-plus-one](https://github.com/jaehoonV/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/jaehoonV/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/jaehoonV/LeetCode/tree/master/0075-sort-colors) |
 | [0416-partition-equal-subset-sum](https://github.com/jaehoonV/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/jaehoonV/LeetCode/tree/master/0066-plus-one) |
 | [0326-power-of-three](https://github.com/jaehoonV/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/jaehoonV/LeetCode/tree/master/0342-power-of-four) |
 | [0797-rabbits-in-forest](https://github.com/jaehoonV/LeetCode/tree/master/0797-rabbits-in-forest) |
