@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/jaehoonV/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/jaehoonV/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jaehoonV/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3794-reverse-string-prefix](https://github.com/jaehoonV/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3797-design-spreadsheet](https://github.com/jaehoonV/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3798-largest-even-number](https://github.com/jaehoonV/LeetCode/tree/master/3798-largest-even-number) |
 | [3811-reverse-degree-of-a-string](https://github.com/jaehoonV/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/jaehoonV/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/jaehoonV/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/jaehoonV/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3794-reverse-string-prefix](https://github.com/jaehoonV/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jaehoonV/LeetCode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3973-flip-square-submatrix-vertically](https://github.com/jaehoonV/LeetCode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Greedy
