@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/jaehoonV/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/jaehoonV/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/jaehoonV/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3804-number-of-centered-subarrays](https://github.com/jaehoonV/LeetCode/tree/master/3804-number-of-centered-subarrays) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jaehoonV/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/jaehoonV/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jaehoonV/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/jaehoonV/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jaehoonV/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/jaehoonV/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3804-number-of-centered-subarrays](https://github.com/jaehoonV/LeetCode/tree/master/3804-number-of-centered-subarrays) |
 | [3831-find-x-value-of-array-i](https://github.com/jaehoonV/LeetCode/tree/master/3831-find-x-value-of-array-i) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/jaehoonV/LeetCode/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jaehoonV/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -734,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/jaehoonV/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/jaehoonV/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/jaehoonV/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3804-number-of-centered-subarrays](https://github.com/jaehoonV/LeetCode/tree/master/3804-number-of-centered-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
